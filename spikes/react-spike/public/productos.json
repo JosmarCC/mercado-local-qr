@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nombre": "Hamaca artesanal", "categoria": "Hogar", "precio": 850, "agotado": false, "descripcion": "Hamaca tejida en Tulum" },
+  { "id": 2, "nombre": "Miel de abeja melipona", "categoria": "Alimentos", "precio": 220, "agotado": false, "descripcion": "Miel orgánica de Playa del Carmen" },
+  { "id": 3, "nombre": "Alebrije miniatura", "categoria": "Artesanías", "precio": 340, "agotado": true, "descripcion": "Alebrije tallado a mano" },
+  { "id": 4, "nombre": "Café de olla chiapaneco", "categoria": "Alimentos", "precio": 180, "agotado": false, "descripcion": "Café molido 500g" },
+  { "id": 5, "nombre": "Bolsa de henequén", "categoria": "Moda", "precio": 260, "agotado": false, "descripcion": "Bolsa tejida yucateca" },
+  { "id": 6, "nombre": "Jabón de coco natural", "categoria": "Hogar", "precio": 95, "agotado": false, "descripcion": "Jabón artesanal" },
+  { "id": 7, "nombre": "Guayabera bordada", "categoria": "Moda", "precio": 720, "agotado": true, "descripcion": "Guayabera de lino" },
+  { "id": 8, "nombre": "Salsa habanera", "categoria": "Alimentos", "precio": 110, "agotado": false, "descripcion": "Salsa extra picante" },
+  { "id": 9, "nombre": "Figura de barro", "categoria": "Artesanías", "precio": 410, "agotado": false, "descripcion": "Barro modelado" },
+  { "id": 10, "nombre": "Vela de cera de abeja", "categoria": "Hogar", "precio": 150, "agotado": false, "descripcion": "Vela aromática" },
+  { "id": 11, "nombre": "Sombrero de jipi", "categoria": "Moda", "precio": 530, "agotado": false, "descripcion": "Sombrero tejido" },
+  { "id": 12, "nombre": "Máscara de madera", "categoria": "Artesanías", "precio": 600, "agotado": true, "descripcion": "Máscara decorativa" }
+]

@@ -1,0 +1,9 @@
+.wrap { max-width: 900px; margin: auto; padding: 1rem; font-family: system-ui; }
+.sub { color: #555; }
+.controls { display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; padding: 0; }
+.card { border: 1px solid #ddd; border-radius: 8px; padding: 1rem; list-style: none; }
+.cat { color: #333; }
+.agotado { color: #b00020; font-weight: bold; }
+.row { display: flex; gap: .5rem; }
+@media (max-width: 360px) { .wrap { padding: .5rem; } }
